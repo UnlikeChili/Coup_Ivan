@@ -48,4 +48,20 @@ Instructions:
     # the longest sequence of 'a's in the file
     # the longest sequence of 'b's in the file
 
+"""
+print (1) 
+
+import random 
+
+print(random.randint(1,10))
+
+
+a = 1
+while(a < 100)
+print a ^2 
+a = a + 1
+"""
+
+import math
+
 
